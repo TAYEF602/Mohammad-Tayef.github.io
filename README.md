@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This is a fully responsive portfolio website built with modern web technologies to showcase my work, skills, and professional background. The design adapts seamlessly to all device sizes (desktop, tablet, mobile).
-
+<img width="1227" alt="portfolio" src="https://github.com/user-attachments/assets/865fe765-c370-4ec8-8ace-51963b217e33" />
 ## 🚀 Features
 
 - **Mobile-First Responsive Design**
