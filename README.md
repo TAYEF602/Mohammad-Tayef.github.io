@@ -2,7 +2,9 @@
 
 ## 📌 Project Overview
 This is a fully responsive portfolio website built with modern web technologies to showcase my work, skills, and professional background. The design adapts seamlessly to all device sizes (desktop, tablet, mobile).
-<img width="1227" alt="portfolio" src="https://github.com/user-attachments/assets/865fe765-c370-4ec8-8ace-51963b217e33" />
+### **Live preview🔴** - https://mohammad-tayef-github-io.vercel.app/
+<img width="1179" alt="portfolio ss" src="https://github.com/user-attachments/assets/369ef87a-5b77-41aa-a988-00c118913e54" />
+
 ## 🚀 Features
 
 - **Mobile-First Responsive Design**
